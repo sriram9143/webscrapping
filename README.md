@@ -12,6 +12,9 @@
  command: pip install requests
  
  #Outlook:
+ 
+ 
   CSV file - It is the output file filled with data extracted from web.
+  
   .py - coding part for extraction data.
  
